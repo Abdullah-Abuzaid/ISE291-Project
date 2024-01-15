@@ -1,3 +1,2 @@
 # ISE291-Project
-We are going to analyze Ali Express products for our ISE 291 Project.  
-Not The best way ofc but it works it just does
+We Collected about 1 million Ali Express products using rotating ip proxies and concurrency methods, then analyzed them to figure out best selling categories and best selling strategies. 
